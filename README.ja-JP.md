@@ -25,7 +25,7 @@
         "newsnow-mcp-server"
       ],
       "env": {
-        "BASE_URL": "https://newsnow.busiyi.world"
+        "BASE_URL": "https://newsnow.namooca.com"
       }
     }
   }
@@ -104,4 +104,4 @@ pnpm dev
 コントリビューションを歓迎します！機能リクエストやバグレポートのために、プルリクエストやイシューの作成をお気軽にどうぞ。
 
 ## ライセンス
-MIT © ourongxing
+MIT © nardinmarcus

@@ -26,7 +26,7 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
         "newsnow-mcp-server"
       ],
       "env": {
-        "BASE_URL": "https://newsnow.busiyi.world"
+        "BASE_URL": "https://newsnow.namooca.com"
       }
     }
   }
@@ -126,4 +126,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contrib
 
 ## License
 
-[MIT](./LICENSE) © ourongxing
+[MIT](./LICENSE) © nardinmarcus
